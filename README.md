@@ -107,19 +107,60 @@ We then looked at agent-based modelling, which pretty much is the coding of simu
 
 
 # Week 5
+In this lesson, we focused on probability distributions with a lot of math components, following aggregation, basic probability (discrete and continuous), distributions and linear models.
+This week’s content was harder than usually to wrap my head around, just plainly because of the heavy math focus and though I had gone over at least similar ideas through HSC math advanced and extension course content, it was still harder to follow. However, the ideas of probability distributions, and random variables and sampling, are very familiar. Especially now where Covid-19 is being tested worldwide, and talks of sampling different people and groups have been discussed so that they can record any side affects that might occur with newer medicines / vaccines. 
 
+The possible outcomes of random variables include:
+1. Point Estimation
+2. Interval Estimation
+3. Hypothesis Test
+
+The content about distribution was very interesting, and I must say, it was my first time hearing about long-tailed distributions, but I though it was quite interesting to see how these distributions can be seen in our daily lives. Examples of long-tailed distributions that our group discussed in class included:
+* Population size/ income
+* Usage of words in a language (for example, “the”, “and” and “like” those types of words would be used a lot, whilst words like “scientific” and more random words, not so much.
+
+I found that social impacts of persuading certain actions was very, very interesting, and really makes you wonder, how, even unconsciously, you are being influenced by the people around you, who are probably influenced by other people, and how the cycle just goes on. Well, this ties back to distributions with the example of downloads for songs. In an experiment, students had the ability to sample and download songs. In the first treatment, they did not know what songs others downloaded, and the distributions of downloads had a shorter tail—no song received more than two hundred downloads and only one song received fewer than thirty. In a second treatment, students knew what others downloaded. The tail of the distribution grew: one song received more than three hundred downloads. Perhaps more telling, over half received fewer than thirty. The tail became longer. Social influence increased inequality. This inequality is not a concern if social influence leads people to download better songs. However, correlations between downloads in the two treatments were not strong. If we interpret the number of downloads of a song in the first treatment as a proxy for the song’s quality, social influence did not result in people downloading better songs. The big winners were not random, but they were not the best.
+
+
+In class, the drafts and models that I had made for the book example are:
 ![image](https://user-images.githubusercontent.com/80301435/118801634-93ffc800-b8e4-11eb-8a54-2a7331963dba.png)
 ![image](https://user-images.githubusercontent.com/80301435/118801648-982be580-b8e4-11eb-8018-2264e16b25e0.png)
 
 
 
 # Week 6
+This lesson regarded, as the title states, how complex systems evolve over time. Hence, we looked at path dependence and the natural “evolution” of things with the outcome probabilities being dependant upon the sequence of past outcomes (meaning, if it becomes successful, keep it, if not change it). Examples of these include:
+*	AC vs DV electricity
+*	Common law
+*	Economic success for a company (I’m undertaking an intro to IS course currently, where we explore the idea of innovation and customer-centric approaches, which pretty much sums this idea up)
+
+Urn Models
+As stated within the canvas document, *“To describe path dependence we will use a model based on urns, and this model will allow us to distinguish between models that are path dependent and those that are “phat” dependent—the order of events doesn’t matter but the set of things does.”* The point of this model is to see the process that are entirely path dependent or are only dependent for a specific period of time. 
+
+We also looked at concavity and convexity, looking at:
+*	Exponential growth
+*	Economic groeth with using economy growth model
+*	Solow’s growth model
+
+We also looked at the models that assess conformity and unity that looks at riots and the networks involved, and why exactly certain people join riots. We talked about tipping points leads for a person to join, seeing that other have joined. 
+
+We also looked at the Markov model that states that a system can be in a number of different states, and entities that comprise this system move between these states according to certain transition probabilities. It states how likely it is for something to move from one state to another. (To note, A random walk on a graph is a very special case of a Markov chain.) Interesting enough, this can be used to see if two countries who are on extreme tension, if they will go to war or not. 
+
+As for the report that is due at the end of the semester, we had our first team meet via Zoom, where we pretty much delegated our roles and had set up a doc where Dev had already started adding bits of information and create a good draft of what we were going to submit in Week 8. 
+
 ![week6](https://user-images.githubusercontent.com/80301435/118802700-ceb63000-b8e5-11eb-8d8b-b7b153742e49.png)
 
 
 As for the report that is due at the end of the semester, we had our first team meet via Zoom, where we pretty much delegated our roles and had set up a doc where Dev had already started adding bits of information and create a good draft of what we were going to submit in Week 8. 
 
 # Week 7
+In this lecture, we looked at segregation and peer effects, pretty much looking at the social impacts that people naturally have. We looked at Schelling’s Segregation Model which pretty much explains the fact that people will gravitate towards areas where it will benefit them, or is more familiar to them. This includes racial segregation and class segregation in real life. When I heard Schelling’s Model, my first thought went to New York City, and the completely distant socio-economic areas that New York homes. I thought that this model provides good insight to human behaviour, and why over a period of time, segregation occurs.
+
+For our assignment, I was thinking that we could use this to simulate lockdown possible. Though this model is usually used to describe racial segregation or class segregation, my though process was, if we adapt this model to define the segregated part of society to be those who are ill and can transfer the COVID-19 virus. Having society be compiled with 2 parts, those who are healthy and those who are not, helps us to utilise this model to simulate the effects of what a lockdown would do. For example, if one person has a COVID-19 case, they are segregated from the rest of the un-ill society. When someone else contracts the virus, they now become part of the now 2-men-band and hence how the segregation increases. Placing preventative measures such as lockdowns prevents the increase of the segregated group. When the incubation period of the sick man is over, he then becomes part of normal society again, and there is no segregation. Hence through this model we will be looking at a dynamic segregated group, unlike other serious segregation topics such as race and class, rather after the incubation period, those who were initially sick can be part of normal society again.
+
+Update: because of the teacher’s feedback on making it too muffled with the pure intention of the model being for racial, class and pure segregation, this is no longer in the assignment. 
+
+The bottom line is that the importance for culture is paramount to our human biology, and so these segregation models and models simulating social impacts will definitely stay to comment on human behaviours for forever. 
 
 In reference to our team, we had a Zoom meeting again on Thursday, where we pretty went over what needed to be done. We were pretty good since we already condensed a bunch of information in our document, and we were reading several articles about previous models and examples of models that other had used. It was a quite short meeting, just checking up and ensuring that we all were on the same page.
 
