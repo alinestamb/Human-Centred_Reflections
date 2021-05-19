@@ -146,8 +146,7 @@ We also looked at the models that assess conformity and unity that looks at riot
 
 We also looked at the Markov model that states that a system can be in a number of different states, and entities that comprise this system move between these states according to certain transition probabilities. It states how likely it is for something to move from one state to another. (To note, A random walk on a graph is a very special case of a Markov chain.) Interesting enough, this can be used to see if two countries who are on extreme tension, if they will go to war or not. 
 
-As for the report that is due at the end of the semester, we had our first team meet via Zoom, where we pretty much delegated our roles and had set up a doc where Dev had already started adding bits of information and create a good draft of what we were going to submit in Week 8. 
-
+In class groupwork:
 ![week6](https://user-images.githubusercontent.com/80301435/118802700-ceb63000-b8e5-11eb-8d8b-b7b153742e49.png)
 
 
