@@ -2,7 +2,7 @@
 Reflections for Human-Centred Complex Systems AUT 2021
 
 # Week 1
-This was the first week of the lectures, and it was clear from the get-go that I was going to learn a lot about types of interactions and, whilst I had a brief idea of systems from conversations that I had with teachers in the software topic, I knew there was a more complex idea at hand.  I remember, at the start of our software topic, our teacher was briefly talking about how things are interconnected and how everything when you look from the most miniscule things to the more of grand things, everything is part of a system, which is the part of a larger system, which... it goes on and on. And that was pretty much the bounds of system interactions that I had previously thought about. Hence, from the beginning of the lesson, talking about complex and complicated systems broadened my mind about at least the different types of systems. And so, throguh this, I took a  simplified approach to understand what complex system are, are thgouh explanations in the lecture, i ending up creating:
+This was the first week of the lectures, and it was clear from the get-go that I was going to learn a lot about types of interactions and, whilst I had a brief idea of systems from conversations that I had with teachers in the software topic, I knew there was a more complex idea at hand.  I remember, at the start of our software topic, our teacher was briefly talking about how things are interconnected and how everything when you look from the most miniscule things to the more of grand things, everything is part of a system, which is the part of a larger system, which... it goes on and on. And that was pretty much the bounds of system interactions that I had previously thought about. Hence, from the beginning of the lesson, talking about complex and complicated systems broadened my mind about at least the different types of systems. And so, through this, I took a  simplified approach to understand what complex system are, and with explanations in the lecture, I ending up creating:
 
 ![wk1](https://user-images.githubusercontent.com/80301435/118756559-86c7e680-b8ae-11eb-9021-aca6c52903a8.png)
 
@@ -95,7 +95,6 @@ This lesson, we started off looking at system dynamics, which is essentially the
 *	Goal-Seeking
 *	Oscillation
 
-
 ![image](https://user-images.githubusercontent.com/80301435/118801695-a24de400-b8e4-11eb-89cb-82dcd9975627.png)
 ![image](https://user-images.githubusercontent.com/80301435/118801704-a4b03e00-b8e4-11eb-8e2d-5cad5ef38327.png)
 
@@ -105,8 +104,6 @@ We then looked at agent-based modelling, which pretty much is the coding of simu
 * Agents --> individual elements of the system
 *	Environment --> outside factors
 *	Rules --> certain ways in how the agents interact
-
-
 
 
 # Week 5
@@ -130,8 +127,34 @@ A few days later, as a group we realised, we hadn’t done the rich picture with
 
 
 # Week 8
+The first time I heard the Colonel Blotto Strategy, is quite a simple strategy, pretty much saying that you don’t have to allocate your resources evenly to win, and that sometimes, keeping reserved in some areas might actually help in the long run. This can easily be relatable and applied to when a student is working on an assignment. They will look at the marks allocated, and therefore, respond accordingly. If one section allocates 5 marks, while the other 20, it is clear to how you will spend your resources, focusing more on the 20-marker. To me, it’s fascinating how this can be applied to so many different things, as mentioned within the canvas pages.  
+It is important to note that both luck and skill contribute to the success, and so, for the fact that we are focusing on many-model thinking, it is clear to see how many-model thinking can be applied for this strategy too, showing the underlying dynamics of the game.
 
-This week was the submission for the first part of the assignment, so therefore, our group made sure that our document was up to date, and Dev had converted it to a word document, sent it to all of us so we could look over it again, and then he submitted it. Quite a smooth process.
+The Prisoner’s Dilemma is an infamous game where two people can either:
+*	Agree --> payoff of 4
+*	One defect --> payoff of 2
+*	Both defect --> payoff of 6
+
+And again, I am surprised at how many applications there are of this idea. These include:
+*	Arms control
+*	Price competition
+*	Technological adoption
+*	Political campaign
+
+There are seven different ways for cooperation, which gets into mathematical probabilities, but the main ideas are:
+1. Direct reciprocity
+2. Reputation – Indirect reciprocity
+3. Network reciprocity
+4. Group selection
+5. Kin Selection
+6. Laws / Prohibitions
+7. Incentives
+
+Collective Action Problems is related to the fact that the outcome that results from self-interest does not align with the community’s outcome, however for the general community to succeed, you have to be selfless. Collective action problems tend to be easier to solve the smaller and more homogeneous the group of individuals or actors involved and the better the information. 
+
+![image](https://user-images.githubusercontent.com/80301435/118805866-c102a980-b8e9-11eb-9755-ed3942ada227.png)
+
+Whereas, for the report, this week was the submission for the first part of the assignment, so therefore, our group made sure that our document was up to date, and Dev had converted it to a word document, sent it to all of us so we could look over it again, and then he submitted it. Quite a smooth process.
 
 # Week 9
 This week, as a team we asked if anyone had any questions, and so I did have a question regarding the assignment, so Lara and I went to the consultation to the teacher. I had a few questions about the models and with the rise of the noncoding and coding option, and what was correct to do. The team had communicated earlier and knew of my question, so after the consultation, we filled the rest of the team in about what path we were going to take with the options, so that they were also in the loop. 
@@ -148,7 +171,6 @@ The team met on Thursday this week. This was the first meet after the feedback w
 
 
 
-
 # Week 11
 We met twice this week, once on Tuesday and once on Saturday, just making sure that we were all on top of our tasks. At the start of the week, I had already made the diagram for the causal loop diagram, and Lara had made the stock-flow diagram. Documentation was mainly left, and Lara was mainly focused on completing the ABM model. We also included more reference papers as a guide. Below are diagrams from those papers. It is important to note that we also found and changed the code to something much simpler, and now that Lara is working on the ABM model, I have more time to focus on the documentation of Section 4 in its entirety, whilst Lara completes the ABM model and parts of the documentation that I can’t do.
 
@@ -156,8 +178,6 @@ We met twice this week, once on Tuesday and once on Saturday, just making sure t
 ![image](https://user-images.githubusercontent.com/80301435/118801080-f6a49400-b8e3-11eb-9cee-feb299c27a7f.png)
 ![image](https://user-images.githubusercontent.com/80301435/118801089-f99f8480-b8e3-11eb-97f6-67c0f715e6e2.png)
 ![image](https://user-images.githubusercontent.com/80301435/118801075-f4423a00-b8e3-11eb-95ff-03ce7b7c086a.png)
-
-
 
 
 
